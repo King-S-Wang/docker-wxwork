@@ -1,13 +1,3 @@
-#!/usr/bin/env bash
-#
-# dowork.sh - Docker WeChat Work for Linux
-#
-#   Author: Huan (李卓桓) <zixia@zixia.net>
-#   Copyright (c) 2020-now
-#
-#   License: Apache-2.0
-#   GitHub: https://github.com/huan/docker-wxwork
-#
 set -eo pipefail
 
 function hello () {
